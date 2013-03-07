@@ -1,8 +1,8 @@
 # Legacy Uploader
 
-A legacy file upholder built with Spring MVC + Spring Data JPA + Bootstrap.
+A simple file upholder written with Spring MVC + Spring Data JPA + Bootstrap.
 
-This is similar to http://www.dotup.org/ or http://sugachan.dip.jp/obsolete/snup/ .
+This is re-implementation of legacy uploaders like http://www.dotup.org/ and http://sugachan.dip.jp/obsolete/snup/ .
 
 ## Screen Shot
 
